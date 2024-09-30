@@ -40,26 +40,5 @@
                 "limpieza_frente_casa": 5000
             }
         ]
-    },
-{
-        "expenseId": 3,
-        "lotId": 2,
-        "period": "02/25",
-        "totalAmount": 10000,
-        "fines": [
-            {
-                "fineId": 3,
-                "amount": 2000
-            },
-            {
-                "fineId": 4,
-                "amount": 2000
-            }
-        ],
-        "individualCharges": [
-            {
-                "limpieza_frente_casa": 5000
-            }
-        ]
     }
 ]
